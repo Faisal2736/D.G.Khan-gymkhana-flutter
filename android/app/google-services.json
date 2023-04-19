@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "83993169677",
+    "project_id": "gymkhanaclubflutter",
+    "storage_bucket": "gymkhanaclubflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83993169677:android:33f6d50fb6e037ca786a44",
+        "android_client_info": {
+          "package_name": "com.semicolonstechnology.dggymkhanaclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83993169677-uddjjphuitda26sc10csqvju679cv0e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semicolonstechnology.dggymkhanaclub",
+            "certificate_hash": "f53d75d7d0ba6c103f173c9b041a06de9aed9dc7"
+          }
+        },
+        {
+          "client_id": "83993169677-22qinn58pjbh32ecodnnmaj50e9lt9o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS54qsU30HtOIGv1_Y_qxObtpZO3yS6a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83993169677-22qinn58pjbh32ecodnnmaj50e9lt9o7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83993169677-erml1v8408ng863ld6qr9dhr0b4sb0uu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gymkhana.gymkhanaClub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83993169677:android:5205b25ec2333544786a44",
+        "android_client_info": {
+          "package_name": "com.semicolonstechnology.gujratgymkhanaclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83993169677-22qinn58pjbh32ecodnnmaj50e9lt9o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS54qsU30HtOIGv1_Y_qxObtpZO3yS6a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83993169677-22qinn58pjbh32ecodnnmaj50e9lt9o7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83993169677-erml1v8408ng863ld6qr9dhr0b4sb0uu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gymkhana.gymkhanaClub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83993169677:android:48879d5b9f657623786a44",
+        "android_client_info": {
+          "package_name": "com.semicolonstechnology.newveharigymkhanaclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83993169677-1dabllkgdbopn072i40i5585prgc7bae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semicolonstechnology.newveharigymkhanaclub",
+            "certificate_hash": "f53d75d7d0ba6c103f173c9b041a06de9aed9dc7"
+          }
+        },
+        {
+          "client_id": "83993169677-22qinn58pjbh32ecodnnmaj50e9lt9o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS54qsU30HtOIGv1_Y_qxObtpZO3yS6a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83993169677-22qinn58pjbh32ecodnnmaj50e9lt9o7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83993169677-erml1v8408ng863ld6qr9dhr0b4sb0uu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gymkhana.gymkhanaClub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83993169677:android:a79acd60c720b46d786a44",
+        "android_client_info": {
+          "package_name": "com.semicolonstechnology.okaragymkhanaclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83993169677-gno8ib3br587oeedlonip563qaq1veos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semicolonstechnology.okaragymkhanaclub",
+            "certificate_hash": "f53d75d7d0ba6c103f173c9b041a06de9aed9dc7"
+          }
+        },
+        {
+          "client_id": "83993169677-22qinn58pjbh32ecodnnmaj50e9lt9o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS54qsU30HtOIGv1_Y_qxObtpZO3yS6a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83993169677-22qinn58pjbh32ecodnnmaj50e9lt9o7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83993169677-erml1v8408ng863ld6qr9dhr0b4sb0uu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gymkhana.gymkhanaClub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
