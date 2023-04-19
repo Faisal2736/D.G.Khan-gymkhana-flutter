@@ -69,10 +69,9 @@ class ProfileWidgets {
                           height: 15,
                           width: 15,
                           decoration: BoxDecoration(
-                            color: getColor(
-                                provider.userModel!.isPaidBill ?? false),
+                            color: getColor(provider),
                             borderRadius: BorderRadius.circular(20),
-                          ),
+                          ) ,
                         )
                       ]),
                     )
@@ -180,8 +179,8 @@ class ProfileWidgets {
     );
   }
 
-  static getColor(bool bool) {
-    if (bool == true) {
+  static Color getColor(DataProvider provider) {
+    if (provider.userModel.isPaidBill == true) {
       return Colors.lightGreenAccent;
     }
     return Colors.red;
