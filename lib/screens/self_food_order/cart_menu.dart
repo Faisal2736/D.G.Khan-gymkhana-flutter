@@ -89,7 +89,9 @@ class _CartMenuState extends State<CartMenu> {
                                   builder: (context, provider, child) {
 
                                     return yText(
-                                        "Total Bill ${totalBill(provider).toInt()}       Food Limit ${provider.userModel.limit?.toInt()}");
+                                      // "Total Bill ${totalBill(provider).toInt()}       Food Limit ${provider.userModel.limit?.toInt()}");
+                                        "Total Bill ${provider.userModel.totalBill?.toInt()}       Food Limit ${provider.userModel.limit?.toInt()}");
+
                                   },
                                 ),
                                 Utils.getHeight(20.h),
@@ -312,9 +314,9 @@ class _CartMenuState extends State<CartMenu> {
     return total;
   }
   num availableLimit(DataProvider provider ) {
-    num total = (provider.userModel!.lastBill?.toDouble() ?? 0) +
-        (provider.userModel!.foodBill?.toDouble() ?? 0);
-    availLimit =(provider.userModel!.limit?.toDouble() ?? 0) - total   ;
+    /*  num total = (provider.userModel!.lastBill?.toDouble() ?? 0) +
+        (provider.userModel!.foodBill?.toDouble() ?? 0);*/
+    availLimit =(provider.userModel!.limit?.toDouble() ?? 0) - (provider.userModel!.totalBill?.toDouble() ?? 0)   ;
     return availLimit;
   }
 

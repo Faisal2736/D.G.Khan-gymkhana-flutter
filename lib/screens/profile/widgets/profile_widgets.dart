@@ -49,7 +49,7 @@ class ProfileWidgets {
                           style: TextStyle(color: CColors.blue, fontSize: 16),
                         ),
                         Text(
-                          "Rs ${provider.userModel!.balance?.toStringAsFixed(0) ?? 0}",
+                          "Rs ${provider.userModel!.finalBill?.toStringAsFixed(0) ?? 0}",
                           style:
                           TextStyle(color: CColors.lightylw, fontSize: 16),
                         ),
