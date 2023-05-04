@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:83993169677:android:33f6d50fb6e037ca786a44",
         "android_client_info": {
-          "package_name": "com.semicolonstechnology.dggymkhanaclub"
+          "package_name": "com.semicolonstechnology.dgkhangymclub"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "83993169677-uddjjphuitda26sc10csqvju679cv0e8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.semicolonstechnology.dggymkhanaclub",
+            "package_name": "com.semicolonstechnology.dgkhangymclub",
             "certificate_hash": "f53d75d7d0ba6c103f173c9b041a06de9aed9dc7"
           }
         },
